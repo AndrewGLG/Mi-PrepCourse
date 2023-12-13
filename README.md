@@ -1,2 +1,1 @@
-# Mi-PrepCourse
-Este es un repositorio de prueba de curso
+Prueba para crear un repositorio y clonarlo desde Github a mi ordenador
